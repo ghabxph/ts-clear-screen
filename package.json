@@ -1,0 +1,16 @@
+{
+  "name": "ts-clear-screen",
+  "version": "0.1.0",
+  "description": "Simple library that clears your console buffer",
+  "main": "index.js",
+  "repository": "https://github.com/ghabxph/ts-clear-screen.git",
+  "author": "ghabxph",
+  "license": "MIT",
+  "scripts": {
+    "watch:build": "npx tsc --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "typescript": "^5.3.3"
+  }
+}
